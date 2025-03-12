@@ -23,8 +23,8 @@ const StepsSection = () => {
         </div>
       </div>
     </section>
-    <div className="bg-gradient-to-r from-blue-500 via-yellow-500 to-green-500 text-transparent bg-clip-text">
-    Copyright &copy;2024; All rights reserved</div>
+    <div className="bg-gradient-to-r from-blue-600 via-yellow-500 to-green-500 text-transparent bg-clip-text">
+    Copyright &copy;2025; All rights reserved</div>
     </>
   );
 };

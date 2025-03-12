@@ -1,5 +1,5 @@
 import blog1 from "../assets/img/blog1.webp";
-import c from "../assets/img/c.webp";
+import credit from "../assets/img/credit.webp";
 import blog3 from "../assets/img/blog3.jpg";
 
 export const data1 = {
@@ -16,7 +16,7 @@ export const data1 = {
         title: "How to Improve Your Credit Score Fast",
         description: "A step-by-step guide to boost your credit score and unlock better financial opportunities.",
         tags: ["Credit Score", "Finance"],
-        image: c,
+        image: credit,
       },
       {
         date: "January 12, 2025",
