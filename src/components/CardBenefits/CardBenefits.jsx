@@ -5,7 +5,7 @@ const CardBenefits = () => {
     return (
         <section className="py-16 px-6 md:px-20 bg-gray-100 text-gray-800 flex flex-col items-center mt-5">
 
-            <div className="flex justify-between md:justify-center md:space-x-56 w-full">
+            <div className="md:flex md:justify-center md:space-x-56 ">
                 <div>
                    
                     <img
